@@ -18,19 +18,10 @@ const projects = [
     description: "เครื่องมือที่ใช้",
     stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "Javascript" }],
     image: "/assets/work/thumb1.png",
-    live: "https://bakery-cy3kgqpmi-silversvs-projects.vercel.app/", // Replace with the actual live URL
+    live: "https://bakery-web-azure.vercel.app/", // Replace with the actual live URL
     github: "https://github.com/MrzSilver/Bakery-web", // Replace with the actual GitHub URL
   },
-  // {
-  //   num: "02",
-  //   category: "fullstack",
-  //   title: "project 2",
-  //   description: "รายละเอียดโปรเจค",
-  //   stack: [{ name: "Next.js" }, { name: "Tailwind.css" }, { name: "Node.js" }],
-  //   image: "/assets/work/thumb2.png",
-  //   live: "", // Replace with the actual live URL
-  //   github: "", // Replace with the actual GitHub URL
-  // },
+  
   {
     num: "02",
     category: "front-end",

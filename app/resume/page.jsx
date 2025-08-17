@@ -14,7 +14,7 @@ const about = {
     },
     {
       fieldName: "Phone",
-      fieldValue: "(+66)61-181-80xx"
+      fieldValue: "093-764-9879"
     },
     {
       fieldName: "Experience",
@@ -43,7 +43,7 @@ const about = {
 const experience = {
   icon: '/public/assets/resume/badge.svg',
   title: " My experience",
-  description: "ผมเชี่ยวชาญในการพัฒนาเว็บไซต์โดยใช้ React, Tailwind CSS, HTML, Node.js, Express.js และ MySQL ผมสามารถสร้างเว็บที่สวยงาม ตอบโจทย์การใช้งาน และ มีประสิทธิภาพ",
+  description: "ผมเชี่ยวชาญในการพัฒนาเว็บไซต์โดยใช้ React, Next.js, Tailwind CSS, HTML, Node.js, Express.js และ MySQL ให้ตรงตามความต้องการของลูกค้า ตอบโจทย์การใช้งาน และ มีประสิทธิภาพสูง รองรับทุกอุปกรณ์",
   items: [
     {
       company: "Sichon Hospital",
@@ -56,7 +56,7 @@ const experience = {
       duration: "2024 - 2025"
     },
     {
-      company: "Web Design",
+      company: "Fastwork & Upwork ",
       position: "Freelance Web Devoloper",
       duration: "2022 - Present"
     },
@@ -70,12 +70,12 @@ const education = {
   description: "Education Record",
   items: [
     {
-      institution: "Songklanakarin University",
+      institution: "prince of songkla university",
       degree: "Computer Engineering",
       duration: "2018 - 2021"
     },
     {
-      institution: "Online Course Platform",
+      institution: "OnlineCourse by Udemy",
       degree: "Front-End Developer",
       duration: "2022"
     },
